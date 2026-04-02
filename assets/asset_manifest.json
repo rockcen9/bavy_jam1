@@ -1,0 +1,38 @@
+{
+  "images": [
+    "background/night.png",
+    "background/zone.png",
+    "textures/cat.png",
+    "textures/cheese.png",
+    "textures/close.png",
+    "textures/hat.png",
+    "textures/heart.png",
+    "textures/left_hand.png",
+    "textures/mouse.png",
+    "textures/right_hand.png",
+    "textures/tutorial.png",
+    "tutorials/eat.gif",
+    "tutorials/hand.gif",
+    "tutorials/spawn.gif"
+  ],
+  "audio": [
+    "audio/music/end.ogg",
+    "audio/music/prepare.ogg",
+    "audio/music/start.ogg",
+    "audio/sfx/eating.ogg",
+    "audio/sfx/meow.ogg",
+    "audio/ui/pick.ogg",
+    "audio/ui/put.ogg"
+  ],
+  "fonts": [
+    "fonts/Cubic_11.ttf",
+    "fonts/FiraCode-VariableFont_wght.ttf",
+    "fonts/Quicksand-Regular.ttf",
+    "fonts/jf-openhuninn-2.1.ttf"
+  ],
+  "shaders": [
+    "shaders/loading_bar.wgsl"
+  ],
+  "data": [],
+  "other": []
+}

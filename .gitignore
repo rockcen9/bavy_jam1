@@ -1,0 +1,6 @@
+/target
+bevy_game.zip
+.env
+.DS_Store
+/wasm_builds
+/.vscode
